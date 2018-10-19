@@ -36,14 +36,14 @@ session_start();
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
       <div class="container">
-        <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="#">Start Bootstrap</a>
+       <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="home1.php"><img src="img/dasha_logo.jpg" width="100%" height="" alt="Dasha Logo"/></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="home.php">Home
+              <a class="nav-link text-uppercase text-expanded" href="home1.php">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
@@ -68,7 +68,7 @@ session_start();
      <section class="page-section about-heading">
       <div class="container">
         <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="img/.jpg" alt="">
-        <div class="about-heading-content">about
+        <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-12 col-lg-10 mx-auto">
               <div class="bg-faded rounded p-5">
@@ -76,6 +76,7 @@ session_start();
          
                   <br>
                   <span class="section-heading-lower" align="center">Cart</span>
+                
                 </h2>
     
                 

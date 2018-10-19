@@ -28,14 +28,14 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
       <div class="container">
-        <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="#">Start Bootstrap</a>
+         <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="home1.php"><img src="img/dasha_logo.jpg" width="100%" height="" alt="Dasha Logo"/></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="home.php">Home
+              <a class="nav-link text-uppercase text-expanded" href="home1.php">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
@@ -101,9 +101,11 @@
               </ul>
                  <p class="address mb-5" align="center">
                 <em>
-                  <strong> Dasha Farming Enterprise </strong>
+                  <strong> DASHA TRADING COMPANY (SA0494102V)  </strong>
                   <br>
-Address : Suite 23-4, Plaza Cheong Hin, Jalan SP 2/1, Taman Serdang Perdana, Sec. 2, 43300 Seri Kembangan, Selangor, Malaysia
+105 block a, sri manja flat,
+jalan pjs 3/55 taman sri manja 46000 petaling jaya, selangor.
+
                 </em>
               </p>
               <p class="mb-0" align="center">

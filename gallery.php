@@ -19,11 +19,21 @@
 
     <!-- Custom styles for this template -->
     <link href="css/business-casual.min.css" rel="stylesheet">
-
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
   </head>
 
   <body>
-
+  
+ <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  </style>
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
@@ -58,39 +68,39 @@
 
 
   <section class="page-section about-heading">
-      <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="img/about.jpg" alt="">
-        <div class="about-heading-content">
-          <div class="row">
-            <div class="col-xl-9 col-lg-10 mx-auto">
-              <div class="bg-faded rounded p-5">
-                <h2 class="section-heading mb-4">
-                  
-                  <br>
-                  <div class="section-heading-lower" align="center">Why Dasha?</span>
-                </h2>
-                <div class="section-heading-upper" align="center"><STRONG>VISION</STRONG></span>
-                <p><div class="section-heading-upper">To become a leading legacy in the agriculture sector by forming beneficial and profitable partnerships with smallholder farmers and other key stakeholders in Malaysia in the concept of integrated farming</span></p>
-                
-                <br>
-                
-              <div class="section-heading-upper" align="center"><STRONG>MISSION</STRONG></span>
-                 <p><div class="section-heading-upper" align="center">
-To produce quality agricultural and livestock products in integrated bonding using improved production, value added marketing innovations for multiple benefits with zero waste
-</span></p>
-                
-                
-                
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>
-      </div>
-      </div>
-     </div>
+     <div class="container">
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/abc.jpg" alt="Los Angeles" width="1100" height="500" >
+    </div>
+    <div class="carousel-item">
+      <img src="img/dasha.jpg" alt="Chicago" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="img/a.jpg" alt="New York" width="1100" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+</div>
+
     </section>
 
 
@@ -113,7 +123,9 @@ To produce quality agricultural and livestock products in integrated bonding usi
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
   </body>
 
 </html>

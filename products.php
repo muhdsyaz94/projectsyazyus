@@ -29,14 +29,14 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
       <div class="container">
-        <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="#">Start Bootstrap</a>
+          <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="home1.php"><img src="img/dasha_logo.jpg" width="100%" height="" alt="Dasha Logo"/></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="home.php">Home
+              <a class="nav-link text-uppercase text-expanded" href="home1.php">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
@@ -63,15 +63,15 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-2 d-flex mx-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Blended to Perfection</span>
-                <span class="section-heading-lower">Coffees &amp; Teas</span>
+                <span class="section-heading-upper">First's Choice</span>
+                <span class="section-heading-lower">Madu Kelulut Liar</span>
               </h2>
             </div>
           </div>
           <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p1.jpeg" alt="">
           <div class="product-item-description d-flex mx-auto">
             <div class="bg-faded p-3 rounded">
-              <p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
+              <p class="mb-0" align="center">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
             </div>
           </div>
         </div>
@@ -84,15 +84,15 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-2 d-flex mx-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Blended to Perfection</span>
-                <span class="section-heading-lower">Coffees &amp; Teas</span>
+                <span class="section-heading-upper">Healthy &amp; Refreshing</span>
+                <span class="section-heading-lower">Jus Markisa</span>
               </h2>
             </div>
           </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p2.jpg" alt="">
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p2.JPG" alt="">
           <div class="product-item-description d-flex mx-auto">
             <div class="bg-faded p-3 rounded">
-              <p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
+              <p class="mb-0" align="center">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
             </div>
           </div>
         </div>
@@ -105,15 +105,15 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-2 d-flex mx-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Blended to Perfection</span>
-                <span class="section-heading-lower">Coffees &amp; Teas</span>
+                <span class="section-heading-upper">Organic </span>
+                <span class="section-heading-lower">Buah Markisa</span>
               </h2>
             </div>
           </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p3.jpg" alt="">
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p3.JPG" alt="">
           <div class="product-item-description d-flex mx-auto">
             <div class="bg-faded p-3 rounded">
-              <p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
+              <p class="mb-0" align="center">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
             </div>
           </div>
         </div>
@@ -126,15 +126,15 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-2 d-flex mx-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Blended to Perfection</span>
-                <span class="section-heading-lower">Coffees &amp; Teas</span>
+                <span class="section-heading-upper">Easy  &amp; convenient </span>
+                <span class="section-heading-lower">Kitchen Box</span>
               </h2>
             </div>
           </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p4.jpg" alt="">
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p4.JPG" alt="">
           <div class="product-item-description d-flex mx-auto">
             <div class="bg-faded p-3 rounded">
-              <p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
+              <p class="mb-0" align="center">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
             </div>
           </div>
         </div>
@@ -147,15 +147,15 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-2 d-flex mx-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Blended to Perfection</span>
-                <span class="section-heading-lower">Coffees &amp; Teas</span>
+                <span class="section-heading-upper">Farm Fresh</span>
+                <span class="section-heading-lower">Telur Ayam Kampung</span>
               </h2>
             </div>
           </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p5.jpg" alt="">
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/p5.JPG" alt="">
           <div class="product-item-description d-flex mx-auto">
             <div class="bg-faded p-3 rounded">
-              <p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
+              <p class="mb-0" align="center">"Freshly laid by hens with freedom to roam during the day". High protein, low cholestrol and fat, 2 times omega-3, 7 times Beta Carotene, Vitamine A &amp; E enrinched.</p>
             </div>
           </div>
         </div>
