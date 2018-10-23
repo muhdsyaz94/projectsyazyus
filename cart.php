@@ -100,6 +100,7 @@ session_start();
 			 <div class="alert alert-warning" align="center">
     <strong>Your Cart Detail</strong>
   			</div>
+      
 			<div class="table-bordered table-responsive" id="order_table">
 				<table class="table table-bordered">
 					<tr>  
@@ -122,6 +123,14 @@ session_start();
 					</tr>
 				</table>
 			</div>
+      <!-- <form action="email.php" method="post">
+        <input type="hidden" name="product_name" value={{cart.product_name}} />
+        <input type="hidden" name="product_quantity" value="12345" />
+        <input type="hidden" name="product_price" value="12345" />
+        <input type="hidden" name="priceitem" value="12345" />
+        <input type="hidden" name="total" value="12345" />
+      <button  style="margin-left: 600px" type="submit" name="remove_product" class="btn btn-success btn-xs">Send</button>
+      </form> -->
 		</div>
 
               </div>

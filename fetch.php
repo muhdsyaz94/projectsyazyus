@@ -2,7 +2,7 @@
 
 //fetch.php
 
-$connect = new PDO("mysql:host=localhost;dbname=yusfenlh_dashaempire", "yusfenlh_user", "P(}D6kEmi6AR");
+$connect = new PDO("mysql:host=localhost;dbname=yusfenlh_dashaempire", "root", "");
 
 $query = "SELECT * FROM tbl_product";
 $statement = $connect->prepare($query);
